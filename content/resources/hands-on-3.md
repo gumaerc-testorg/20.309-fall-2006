@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Tools
+optional_tab_title: ''
+optional_text: ''
+parent_title: Tools
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Hands-on 3: AFM noise measurement'
 uid: eee7f34e-28fe-3836-fa95-f154ccc941a6

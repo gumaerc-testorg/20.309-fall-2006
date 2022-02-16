@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Tools
+optional_tab_title: ''
+optional_text: ''
+parent_title: Tools
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Hands-on 1: AFM force spectroscopy'
 uid: ad6f9a35-c8a9-eaf9-0644-c3ab283e6f96
