@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 97d5e097-466d-1a3d-3330-a6c5d05c1cdc
 resourcetype: Document
 title: tutorial2.pdf
 uid: 1876ddc4-f4b2-1584-2bd4-03e031a89ad8

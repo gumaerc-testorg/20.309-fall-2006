@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 544c7eea-11d8-a7e0-145c-35c32ce17be6
 resourcetype: Other
 title: beadtest.zip
 uid: cb2550bd-c9d0-f00e-9f87-83384044d514

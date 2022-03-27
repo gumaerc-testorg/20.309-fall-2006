@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 97d5e097-466d-1a3d-3330-a6c5d05c1cdc
 resourcetype: Other
 title: 20309_matlab.zip
 uid: 21dc8b8a-ad27-a748-7c30-4087aa8a8c49

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 97d5e097-466d-1a3d-3330-a6c5d05c1cdc
 resourcetype: Document
 title: convclar.pdf
 uid: 898a07d0-2c6b-861a-8e8b-06acc7bcbc60

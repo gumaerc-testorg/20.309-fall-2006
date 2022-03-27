@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 97d5e097-466d-1a3d-3330-a6c5d05c1cdc
 resourcetype: Document
 title: lec18.pdf
 uid: 186780a4-8ca6-c2cb-c4cf-9f9b67515f82

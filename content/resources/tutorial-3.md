@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Tools
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Tutorial 3: AFM noise Measurement'
 uid: 34098f22-4150-f3ea-4d9b-3c7c5ae98d41
 video_files:

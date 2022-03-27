@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 14199d62-da87-c70f-bae4-6d0285c23fa0
 resourcetype: Document
 title: tutorial2.pdf
 uid: 46df619b-748a-e8f3-f751-2c19b66127a9

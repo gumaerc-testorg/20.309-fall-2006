@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Tools
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Tutorial 2: More about force spectroscopy'
 uid: 5935687d-6c44-a9ea-271a-17bfc8bfcd26
 video_files:

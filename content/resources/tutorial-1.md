@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Tools
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Tutorial 1: Introduction to the lab AFM'
 uid: 0420fbc2-feb4-c19d-0ee6-7e6e48417022
 video_files:
