@@ -1,126 +1,84 @@
 ---
 content_type: page
+description: This section contains a list of lectures, labs, and readings for the
+  course.
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 97d5e097-466d-1a3d-3330-a6c5d05c1cdc
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
-
 This page presents a table of suggested readings for each lecture/lab session, plus slides used in a few lectures in Part III: Optics. Following the table is a list of [papers suggested for student oral presentations](#papers).
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 LECTURES
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 LABS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen colspan="4" >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="4" >}}
 **Part I: Electronics (Instructor - Scott Manalis)**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 0
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Course overview, procedures, syllabus, scheduling
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Lab orientation and tour, safety, introduction to electronics
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Electronics for DNA analysis; dividers, Thevenin's theorem, impedance and loading, RC circuits
 
 RC circuits: transfer functions, Laplace transforms, impedance, RC filters
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Lab orientation and tour, safety, introduction to electronics (cont.)
 
 Module 0: introduction to electronics
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-Agarwal, A., and J. H. Lang. _Foundations of Analog and Digital Electronic Circuits_. San Diego, CA: Morgan Kaufmann, 2005, chapters 2, 3, 9, and 10. ISBN: 9781558607354.  
+Agarwal, A., and J. H. Lang. _Foundations of Analog and Digital Electronic Circuits_. San Diego, CA: Morgan Kaufmann, 2005, chapters 2, 3, 9, and 10. ISBN: 9781558607354.    
 (Resistors, capacitors, voltage and current dividers, RC transients)
 
 This brief [Diode Primer](http://openwetware.org/wiki/20.309:DiodePrimer) will be helpful for working on this week's lab.
 
 Agarwal, A., and J. H. Lang. "Sinusoidal Steady State." Chapter 13 in _Foundations of Analog and Digital Electronic Circuits_. San Diego, CA: Morgan Kaufmann, 2005. ISBN: 9781558607354.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Feedback: Black's formula, the loop; Op-amps: "Golden Rules" and circuit examples
 
 DNA analysis: SNP detection, chemical equilibrium - K and DeltaG; description of DNA melting lab apparatus
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Module 1: measuring DNA melting curves
 
 Part I: build optics for DNA melting experiment, build photodiode readout circuit; calibrate fluorescence signal
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Agarwal, A., and J. H. Lang. "The Operational Amplifier Abstraction." Chapter 15 in _Foundations of Analog and Digital Electronic Circuits_. San Diego, CA: Morgan Kaufmann, 2005. ISBN: 9781558607354.
 
 SantaLucia, J. "A Unified View of Polymer, Dumbbell, and Oligonucleotide DNA Nearest-Neighbor Thermodynamics." _PNAS_ 95, no. 4 (February 17, 1998): 1460-1465.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Fourier series, integrals, Fourier transform (continuous/discrete)
 
@@ -128,62 +86,39 @@ Fourier analysis (cont.)
 
 Evening session: student presentations 1
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Module 1: measuring DNA melting curves (cont.)
 
 Part II: complete DNA melting curves apparatus; test perfect-match, all-mismatch, and single-base mismatch DNA strands
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Strang, G. "Analytical Methods." Chapter 4 in _Introduction to Applied Mathematics_. Wellesley, MA: Wellesley-Cambridge Press, 1986. ISBN: 9780961408800.
 
-### FFT Reference Material
+_FFT Reference Material_
 
 W. H., et al. "Introduction," and "Fourier Transform of Discretely Sampled Data;" Chapter 12.0-12.1 and "Power Spectrum Estimation Using the FFT." Chapter 13.4 in Press, _Numerical Recipes in C: The Art of Scientific Computing_. 2nd ed. Cambridge, UK: Cambridge University Press, 1992. ISBN: 9780521431088.
 
 Taton, T. A., C. A. Mirkin, and R. L. Letsinger. "Scanometric DNA Array Detection with Nanoparticle Probes." _Science_ 289, no. 5485 (September 8, 2000): 1757-1760.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="4" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="4" >}}
 **Part II: Mechanics (Instructor - Scott Manalis)**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Scanning probe microscopy
 
 Signals, noise, power spectral density
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Module 2: atomic force microscope
 
 Part I: AFM alignment and calibration, AFM imaging I
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Binnig, G., and C. F. Quate. "Atomic Force Microscope." _Physical Review Letters_ 56, no. 9 (March 3, 1986): 930-933.
 
@@ -191,175 +126,107 @@ This helpful link discusses [Spectral Leakage](http://www.dsptutor.freeuk.com/an
 
 See also the above FFT reference material.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Correlation/convolution, lock-In amplification, linear systems
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Module 2: atomic force microscope (cont.)
 
 Part II: AFM imaging II; force spectroscopy
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
+Tutorial 1: discrete and continuous signals, digital sampling, summary of Fourier transforms ({{% resource_link d77564eb-7de7-cbcd-98a2-2d64bbca401e "PDF" %}})
 
+Tutorial 2: sampling example in Fourier space ({{% resource_link 1876ddc4-f4b2-1584-2bd4-03e031a89ad8 "PDF" %}})
 
-Tutorial 1: discrete and continuous signals, digital sampling, summary of Fourier transforms ([PDF]({{< baseurl >}}/resources/tutorial1))
+Convolution clarification examples ({{% resource_link 898a07d0-2c6b-861a-8e8b-06acc7bcbc60 "PDF" %}})
 
-Tutorial 2: sampling example in Fourier space ([PDF]({{< baseurl >}}/resources/tutorial2))
-
-Convolution clarification examples ([PDF]({{< baseurl >}}/resources/convclar))
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Equipartition theorem and thermal fluctuations
 
 Student presentations 2
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Module 2: atomic force microscope (cont.)
 
 Part III: thermal fluctuations of microcantilevers: Boltzmann's constant experiment
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="4" >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="4" >}}
 **Part III: Optics (Instructor - Peter So)**
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Image processing I
 
 Image processing II
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Image processing with MATLAB® (linked to homework 3)
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 [Mathworks' MATLAB® Matrix Indexing Tutorial](http://www.mathworks.com/company/newsletters/digest/sept01/matrix.html)
 
 Gonzalez, R., and R. E. Woods. "Histograms, Contrast, Spatial Filtering" Chapter 4, "Morphological Operations" Chapter 8, "Segmentation" Chapter 7, and "Recognition & Interpretation" Chapter 9 in _Digital Image Processing_. 2nd ed. East Rutherford, NJ: Prentice-Hall, 2002. ISBN: 9780201180756.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Physical optics and optical instrumentation: detectors, noise
 
 Optical instrumentation: sources, lasers
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Optoelectronics: PMT and photon counting (linked to homework 3.5)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+_Lecture slides_
 
-### Lecture slides
+({{% resource_link 577a368a-b1d3-8374-e6cb-aed236310e14 "PDF 1 - 1.9 MB" %}})
 
-([PDF 1 - 1.9 MB]({{< baseurl >}}/resources/lec14))
+({{% resource_link bd890602-4b6d-a23a-235a-cd446ab34bc9 "PDF 2" %}})
 
-([PDF 2]({{< baseurl >}}/resources/lec15))
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Introduction to microscopy: geometric optics, lenses, ray tracing
 
 Interference and diffraction, resolution in microscopy, Fourier optics
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Module 3: fluorescence microscope construction
 
 Part I: white light imaging and Fourier optics
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
+_Lecture slides_
 
+Introduction to microscopy: geometric optics, lenses, ray tracing ({{% resource_link 17f90a5c-bdab-65af-a291-86fa3a0659f5 "PDF - 1.1 MB" %}})
 
-### Lecture slides
+Interference and diffraction, resolution in microscopy, Fourier optics ({{% resource_link c5c8f880-46b0-c843-fdbe-f8d1073fe249 "PDF - 1.0 MB" %}})
 
-Introduction to microscopy: geometric optics, lenses, ray tracing (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1 MB]({{< baseurl >}}/resources/lec16))
-
-Interference and diffraction, resolution in microscopy, Fourier optics (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0 MB]({{< baseurl >}}/resources/lec17))
-
-### Online microscopy references
+_Online microscopy references_
 
 [MicroscopyU (Nikon)](http://www.microscopyu.com/microscopy-basics)
 
 [Molecular Expressions Optical Microscopy Primer](http://micro.magnet.fsu.edu/primer/index.html)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Fluorescence microscopy
 
@@ -367,50 +234,33 @@ Active microrheology
 
 Evening session: student presentations: session 3
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Module 3: fluorescence microscope construction (cont.)
 
 Part II: live-cell imaging - microrheology
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
+_Lecture slides_
 
+({{% resource_link 186780a4-8ca6-c2cb-c4cf-9f9b67515f82 "PDF - 3.3 MB" %}})
 
-### Lecture slides
-
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.3 MB]({{< baseurl >}}/resources/lec18))
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Passive microrheology and particle tracking
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Module 3: fluorescence microscope construction (cont.)
 
 Part III: actin cytoskeleton imaging
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
+MATLAB® scripts for calculating MSD and G\* ({{% resource_link 21dc8b8a-ad27-a748-7c30-4087aa8a8c49 "ZIP" %}}) (Courtesy of Maxine Jonas. Used with permission.) (The ZIP file contains: GetGstar.m and GetMSD.m.)
 
-
-MATLAB® scripts for calculating MSD and G\* ([ZIP]({{< baseurl >}}/resources/20309_matlab)) (Courtesy of Maxine Jonas. Used with permission.) (The ZIP file contains: GetGstar.m and GetMSD.m.)
-
-### Papers referenced in the lab manual
+_Papers referenced in the lab manual_
 
 Vukusic, P., and J. R. Sambles. "Photonic Structures in Biology." _Nature_ 424 (August 14, 2003): 852-856.
 
@@ -418,7 +268,7 @@ Mason, T. G. "Estimating the Viscoelastic Moduli of Complex Fluids using the Gen
 
 Lau, A. W. C., et al. "Microrheology, Stress Fluctuations, and Active Behavior of Living Cells." _Physical Review Letters_ 91 no. 19 (7 November 2003): 198101.
 
-### Three papers about peacock feathers
+_Three papers about peacock feathers_
 
 Zi, Jian, et al. "Coloration Strategies in Peacock Feathers." _PNAS_ 100 (2003): 12576-12578.
 
@@ -426,16 +276,9 @@ Yoshioka, S., and S. Kinoshita. "Effect of Macroscopic Structure in Iridescent C
 
 Kinoshita, S., and Yoshioka. "Structural Colors in Nature: The Role of Regularity and Irregularity in the Structure." _ChemPhysChem_ 6 (2005): 1442-1459.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Optical trapping \[Instructor: Prof. Matt Lang\]
 
@@ -443,71 +286,41 @@ Advanced fluorescence microscopy
 
 Evening session: student presentations 4
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Module 3: fluorescence microscope construction (cont.) and experiments
 
 Module 4: optical trapping
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 3D microscopy: confocal imaging
 
 3D Microscopy: two-photon microscopy, 3D image processing
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Module 4: optical trapping (cont.)
 
 3D imaging and visualization: two-photon microscopy
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-14
-{{< tdclose >}}
-{{< tdopen >}}
-Student presentations 5
-{{< tdclose >}}
-{{< tdopen >}}
-3D image-stack visualization, imageJ
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
+14
+{{< tdclose >}}{{< tdopen >}}
+Student presentations 5
+{{< tdclose >}}{{< tdopen >}}
+3D image-stack visualization, imageJ
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
-
-{{< tableclose >}}
-
-{{< anchor "papers" >}}{{< /anchor >}}Papers Suggested for Student Oral Presentations
--------------------------------------------------------------------------------------
+## {{< anchor "papers" >}}{{< /anchor >}}Papers Suggested for Student Oral Presentations
 
 ### Session 1
 
