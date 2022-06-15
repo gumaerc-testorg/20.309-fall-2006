@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Tools
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Tools
@@ -33,3 +34,6 @@ Hardware operation: preparing and loading the cantilever and sample; setup and a
 Software operation: overview; interpreting computer and oscilloscope displays
 
 Force spectroscopy introduction: engaging the tip; monitoring cantilever deflection; fine-tuning the setup with force curves
+
+
+

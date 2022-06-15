@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Tools
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Tools
@@ -29,3 +30,6 @@ _Tutorial 3: AFM noise Measurement (16 min.)_
 Estimating Boltzman's constant
 
 More about cantilever behavior
+
+
+
