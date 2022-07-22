@@ -8,6 +8,7 @@ file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture slides on optical microscopy and spectroscopy for biology and medicine, typical biomedical optics experiment, noise sources of a detector, photon shot noise, dark current noise, Johnson noise, photomultiplier tube, and charge coupled devices.
-

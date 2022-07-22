@@ -7,6 +7,7 @@ file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture slides on optical instrumentation, sources, lasers, the wave and particle nature of light, reflection and refraction of light at boundary, simple ray tracing, optical microscopy, and interference.
-

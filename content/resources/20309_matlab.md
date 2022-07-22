@@ -7,6 +7,7 @@ file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-
 file_type: application/zip
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab supplement containing MATLAB? scripts for calculating MSD and G*. (Courtesy of Maxine Jonas. Used with permission.) (The ZIP file contains: GetGstar.m and GetMSD.m.)
-

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 _Hands-on 1: AFM force spectroscopy (15 min.)_
 
 Load cantilever and sample; determine basic features of the sample
-
-
 

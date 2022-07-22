@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 _Hands-on 3: AFM noise measurement (9 min.)_
 
 More about preparing and loading cantilevers
-
-
 

@@ -7,6 +7,7 @@ file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This file is a resource which contains information about Guidelines and Hints for Image Processing in MATLAB, Image Input/Output and Manipulation and Image Processing Problems.
-

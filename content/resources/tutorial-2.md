@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -34,6 +35,4 @@ Comparing the 20.309 lab AFM and commercial AFM systems
 Overview of elastic modulus curves experiment
 
 Cantilever geometry correction factor (numerical calculation of cantilever bending)
-
-
 

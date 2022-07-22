@@ -8,6 +8,7 @@ file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab exercise on fluorescence microscope construction, major microscope parts, construction guidelines, microscope characterization and Fourier-plane imaging, microrheology measurements by particle tracking, and fluorescence imaging of the actin cytoskeleton.
-
