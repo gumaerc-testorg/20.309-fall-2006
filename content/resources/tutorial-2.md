@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Tools
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Tutorial 2: More about force spectroscopy'
 uid: 5935687d-6c44-a9ea-271a-17bfc8bfcd26
 video_files:
@@ -23,3 +35,4 @@ Comparing the 20.309 lab AFM and commercial AFM systems
 Overview of elastic modulus curves experiment
 
 Cantilever geometry correction factor (numerical calculation of cantilever bending)
+

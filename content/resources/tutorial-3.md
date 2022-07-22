@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Tools
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Tutorial 3: AFM noise Measurement'
 uid: 34098f22-4150-f3ea-4d9b-3c7c5ae98d41
 video_files:
@@ -19,3 +31,4 @@ _Tutorial 3: AFM noise Measurement (16 min.)_
 Estimating Boltzman's constant
 
 More about cantilever behavior
+

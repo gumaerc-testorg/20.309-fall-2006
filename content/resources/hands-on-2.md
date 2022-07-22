@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Tools
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Hands-on 2: AFM force spectroscopy'
 uid: b1118a7e-28df-1e6f-94cc-f1189c3450f5
 video_files:
@@ -15,3 +27,4 @@ video_metadata:
 ---
 
 _Hands-on 2: AFM force spectroscopy (43 min.)_
+
