@@ -3,6 +3,7 @@ content_type: resource
 description: Lab exercise on atomic force microscopes, motion control system, major
   operational steps, software, additional instrumentation, and measuring image dimensions.
 file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/63ff36fe23a7030b2bf2d357aefc04c1_module2.pdf
+file_size: 734509
 file_type: application/pdf
 learning_resource_types:
 - Labs
