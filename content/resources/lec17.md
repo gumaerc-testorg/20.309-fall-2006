@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture slides on the Huygens-Fresnel principle, diffraction, Fourier
   optics, and resolution viewed from Fourier optics.
 file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/c5c8f88046b0c843fdbef8d1073fe249_lec17.pdf
+file_size: 1042484
 file_type: application/pdf
 learning_resource_types:
 - Readings

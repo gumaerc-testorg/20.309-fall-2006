@@ -4,6 +4,7 @@ description: Lab exercise on DC measurements, dividers, impedance, photodiode i-
   curves, AC measurements, transfer functions, and the Wheatstone bridge for temperature
   measurement.
 file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/7c33d5fd7c79f5ba38fa1dd145e10dc2_module0.pdf
+file_size: 502587
 file_type: application/pdf
 learning_resource_types:
 - Labs
