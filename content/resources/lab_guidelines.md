@@ -2,7 +2,7 @@
 content_type: resource
 description: Lab guidelines on electrical safety, laser safety, chemical safety, biosafety,
   lab report guidelines, graphs, figures, and tables.
-file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/56044f5c9893c00edd00d17d4113c7ef_lab_guidelines.pdf
+file: /ol-ocw-studio-app/courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/56044f5c9893c00edd00d17d4113c7ef_lab_guidelines.pdf
 file_size: 91654
 file_type: application/pdf
 learning_resource_types:
