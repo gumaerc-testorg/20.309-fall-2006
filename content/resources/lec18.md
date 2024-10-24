@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on typical biomedical optics experiment, microscope configurations,
   Jablonski diagram, fluorescent probes and strengths of fluorescence microscopy.
-file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/186780a48ca6c2cbc4cf9f9b67515f82_lec18.pdf
+file: /ol-ocw-studio-app/courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/186780a48ca6c2cbc4cf9f9b67515f82_lec18.pdf
 file_size: 3480309
 file_type: application/pdf
 learning_resource_types:
