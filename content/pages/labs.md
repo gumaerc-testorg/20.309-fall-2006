@@ -4,7 +4,7 @@ description: This section contains an overview of the laboratory modules such as
   mechanics, optic and also lab report grading rubric.
 draft: false
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 14199d62-da87-c70f-bae4-6d0285c23fa0
