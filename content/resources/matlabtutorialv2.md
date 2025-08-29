@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Tutorial on curve fitting with MATLAB.
-file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/3f530c9d373a344fd90da65ba9175018_matlabtutorialv2.pdf
+file: /ol-ocw-studio-app/courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/3f530c9d373a344fd90da65ba9175018_matlabtutorialv2.pdf
 file_size: 36303
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

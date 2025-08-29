@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/7ea06f60372381b56301fa11c890f9c5_hw2.pdf
+file: /ol-ocw-studio-app/courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/7ea06f60372381b56301fa11c890f9c5_hw2.pdf
 file_size: 122230
 file_type: application/pdf
 learning_resource_types:

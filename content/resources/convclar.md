@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture supplement on convolution clarification examples.
-file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/898a07d02c6b861a8e8b06acc7bcbc60_convclar.pdf
+file: /ol-ocw-studio-app/courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/898a07d02c6b861a8e8b06acc7bcbc60_convclar.pdf
 file_size: 19186
 file_type: application/pdf
 learning_resource_types:
