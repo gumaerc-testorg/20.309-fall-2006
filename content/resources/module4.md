@@ -2,11 +2,11 @@
 content_type: resource
 description: Lab exercise on the optical trapping system, calibration, and the E.
   coli flagellar motor.
-file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/5fba7aeebcf5e17aaf941340c0a57efe_module4.pdf
+file: /ol-ocw-studio-app/courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/5fba7aeebcf5e17aaf941340c0a57efe_module4.pdf
 file_size: 317524
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

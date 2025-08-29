@@ -4,7 +4,7 @@ description: Lecture slides on optical microscopy and spectroscopy for biology a
   medicine, typical biomedical optics experiment, noise sources of a detector, photon
   shot noise, dark current noise, Johnson noise, photomultiplier tube, and charge
   coupled devices.
-file: /courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/bd8906024b6da23a235acd446ab34bc9_lec15.pdf
+file: /ol-ocw-studio-app/courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/bd8906024b6da23a235acd446ab34bc9_lec15.pdf
 file_size: 189424
 file_type: application/pdf
 learning_resource_types:
