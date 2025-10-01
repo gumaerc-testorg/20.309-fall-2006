@@ -52,7 +52,7 @@ Module 0: introduction to electronics
 Agarwal, A., and J. H. Lang. _Foundations of Analog and Digital Electronic Circuits_. San Diego, CA: Morgan Kaufmann, 2005, chapters 2, 3, 9, and 10. ISBN: 9781558607354.    
 (Resistors, capacitors, voltage and current dividers, RC transients)
 
-This brief [Diode Primer](http://openwetware.org/wiki/20.309:DiodePrimer) will be helpful for working on this week's lab.
+This brief {{% resource_link "0e4100c3-76da-40ae-9efe-dfe096586543" "Diode Primer" %}} will be helpful for working on this week's lab.
 
 Agarwal, A., and J. H. Lang. "Sinusoidal Steady State." Chapter 13 in _Foundations of Analog and Digital Electronic Circuits_. San Diego, CA: Morgan Kaufmann, 2005. ISBN: 9781558607354.
 
@@ -122,7 +122,7 @@ Part I: AFM alignment and calibration, AFM imaging I
 
 Binnig, G., and C. F. Quate. "Atomic Force Microscope." _Physical Review Letters_ 56, no. 9 (March 3, 1986): 930-933.
 
-This helpful link discusses [Spectral Leakage](http://www.dsptutor.freeuk.com/analyser/guidance.html#leakage) when doing spectral analysis.
+This helpful link discusses {{% resource_link "bc689f1a-4d70-43a0-b1e2-d737d23925c5" "Spectral Leakage" %}} when doing spectral analysis.
 
 See also the above FFT reference material.
 
@@ -174,7 +174,7 @@ Image processing II
 Image processing with MATLAB® (linked to homework 3)
 {{< tdclose >}}{{< tdopen >}}
 
-[Mathworks' MATLAB® Matrix Indexing Tutorial](http://www.mathworks.com/company/newsletters/digest/sept01/matrix.html)
+{{% resource_link "d64c49da-9c9a-4a12-a468-8ebe6d3ec7a4" "Mathworks' MATLAB® Matrix Indexing Tutorial" %}}
 
 Gonzalez, R., and R. E. Woods. "Histograms, Contrast, Spatial Filtering" Chapter 4, "Morphological Operations" Chapter 8, "Segmentation" Chapter 7, and "Recognition & Interpretation" Chapter 9 in _Digital Image Processing_. 2nd ed. East Rutherford, NJ: Prentice-Hall, 2002. ISBN: 9780201180756.
 
@@ -220,9 +220,9 @@ Interference and diffraction, resolution in microscopy, Fourier optics ({{% reso
 
 _Online microscopy references_
 
-[MicroscopyU (Nikon)](http://www.microscopyu.com/microscopy-basics)
+{{% resource_link "11ba8251-a00c-4cf2-898f-e96e4d33f0b3" "MicroscopyU (Nikon)" %}}
 
-[Molecular Expressions Optical Microscopy Primer](http://micro.magnet.fsu.edu/primer/index.html)
+{{% resource_link "37e1c500-e313-444a-b86a-db87d3e0b573" "Molecular Expressions Optical Microscopy Primer" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
