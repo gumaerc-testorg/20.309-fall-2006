@@ -34,11 +34,11 @@ Following the Fall 2006 term, these videos were produced from a series of AFM tu
 Background on 20.309 Lab Setups
 -------------------------------
 
-[An Atomic Force Microscope (AFM) For The Instructional Laboratory](http://www.media.mit.edu/nanoscale/courses/AFMsite/)
+{{% resource_link "b88973f0-30a9-444a-a517-2604c1a1c099" "An Atomic Force Microscope (AFM) For The Instructional Laboratory" %}}
 
-[Optical Trap](http://www.openwetware.org/wiki/Optical_Trap)
+{{% resource_link "4d6a22e2-0521-48fe-a092-43195f4cbf67" "Optical Trap" %}}
 
 Other Resources
 ---------------
 
-[OpenWetWare](http://www.openwetware.org/wiki/Main_Page) is an open information-sharing resource among researchers and groups who are working in biology and biological engineering.
+{{% resource_link "53876fd7-6d48-4976-874c-85f425ecdb47" "OpenWetWare" %}} is an open information-sharing resource among researchers and groups who are working in biology and biological engineering.
